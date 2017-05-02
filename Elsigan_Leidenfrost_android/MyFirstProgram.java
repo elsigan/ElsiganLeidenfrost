@@ -14,7 +14,10 @@ public class MyFirstProgram {
 	}
 	
 	public void thisIsAnewMethod(){
+		
 		System.out.print("This is a new line!");
+		int i=10; //change of member 2
+		
 	}
 	
 	//main
