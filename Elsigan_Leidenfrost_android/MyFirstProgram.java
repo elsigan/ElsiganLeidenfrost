@@ -12,7 +12,10 @@ public class MyFirstProgram {
 		} //for
 	}
 	
-	public void thisIsAnewMethod(){}
+	public void thisIsAnewMethod(){
+		int i=10; //change of member 2
+		
+	}
 	
 	//main
 }//MyFirstProgram
