@@ -8,6 +8,7 @@ public class MyFirstProgram {
 			Out.print("Output number ");
 			Out.print(i);
 			Out.println(": Hello World!");
+			Out.println("SEAS!");
 		} //for
 	}//main
 }//MyFirstProgram
