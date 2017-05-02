@@ -19,6 +19,7 @@ public class MyFirstProgram {
 		int i=10; //change of member 2
 		System.out.print("Change");
 		
+		int a = 10000; //change of member 1
 		
 	}
 	
