@@ -17,6 +17,7 @@ public class MyFirstProgram {
 		
 		System.out.print("This is a new line!");
 		int i=10; //change of member 2
+		int a = 10000 //change of member 1
 		
 	}
 	
