@@ -12,7 +12,9 @@ public class MyFirstProgram {
 		} //for
 	}
 	
-	public void thisIsAnewMethod(){}
+	public void thisIsAnewMethod(){
+		Out.print("This is a new line!");
+	}
 	
 	//main
 }//MyFirstProgram
