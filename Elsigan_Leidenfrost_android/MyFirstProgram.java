@@ -9,5 +9,9 @@ public class MyFirstProgram {
 			Out.print(i);
 			Out.println(": Hello World!");
 		} //for
-	}//main
+	}
+	
+	public void thisIsAnewMethod(){}
+	
+	//main
 }//MyFirstProgram
